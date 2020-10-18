@@ -1,0 +1,9 @@
+.service{
+    margin-bottom: 80px;
+}
+.service:hover{
+    box-shadow: 2px 2px 30px 1px #888888;
+}
+.service img{
+    width: 100px;
+}

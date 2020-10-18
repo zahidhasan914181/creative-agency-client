@@ -1,0 +1,9 @@
+.side-logo img{
+    width: 200px;
+}
+.side-list ul li{
+    list-style: none;
+}
+.list li a:focus{
+    color: #fff !important;
+}
